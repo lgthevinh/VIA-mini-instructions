@@ -1,0 +1,10 @@
+eventlet==0.30.0
+Flask==2.1.0
+Flask-SocketIO==3.0.0
+numpy==1.19.3
+opencv-python==3.4.3.18
+Pillow==8.1.2
+python-engineio==3.0.0
+python-socketio==2.1.2
+Werkzeug==2.0.0
+simple-pid
